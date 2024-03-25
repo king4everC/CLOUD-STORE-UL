@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Spotify","Watching YouTube"];
+const statusMessages = ["We Are Cloud","Cloud-store Official BOT "];
 
 
 let currentIndex = 0;
